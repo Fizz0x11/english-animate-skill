@@ -12,10 +12,12 @@
 ### 方式一：官方技能安装器（推荐）
 
 ```bash
-npx skills add Fizz0x11/english-animate-skill
+npx skills add https://github.com/Fizz0x11/english-animate-skill
 ```
 
 覆盖 70+ 智能体（Claude Code / Codex / Cursor / ZCode 等共享 `~/.agents/skills/`）。
+
+> 注意：请用完整 URL（简写仓名可能被模糊匹配成别的同名技能）。
 
 ### 方式二：zip 手动装
 
