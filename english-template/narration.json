@@ -1,0 +1,14 @@
+{
+ "voice": "zh-CN-XiaoxiaoNeural",
+ "voice_rate": "+25%",
+ "pages": {
+  "P1": "背单词最亏的顺序，就是从 a 背到 abandon。聪明的顺序，是先背最便宜的零件，后缀。",
+  "P2": "为什么后缀最便宜？因为它不管词义，只管词性。认识一个词尾，几百个词立刻就能切开。",
+  "P3": "三巨头第一个，ness。把 happy 切成 happy 加 ness，形容词秒变名词 happiness。考研大纲里，213 个词都披着这条尾巴。",
+  "P4": "第二个、第三个巨头，ion 和 ment。action，decision，management，它们是动词变名词的两大出口，加起来又是 242 个词。",
+  "P5": "上手试一试。information 切掉尾巴，是 inform 加 ation，信息；development 是 develop 加 ment，发展。先切尾巴，词性锁死，词义就猜对了一半。",
+  "P6": "另外五个高频后缀，见到认识就行：able 是可，ity 是性质，ful 是充满，less 是没有，ous 是具备。扫两遍混个脸熟，不用刻意背。",
+  "P7": "一天拿下三巨头，等于铺好四百多个词次的底。下一集，我们讲前缀六天王，和它们的马甲家族。"
+ },
+ "total": 76.0
+}
